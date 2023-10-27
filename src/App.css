@@ -1,0 +1,73 @@
+body {
+   
+  background-color: lightcoral;
+
+}
+
+.container {
+
+  background-color: rgb(230, 223, 223);
+  margin-top: 60px;
+  padding: 30px;
+  width: 60%;
+  margin-left: 200px;
+  border-radius: 25px;
+  text-align: center;
+  font-size: 30PX;
+
+
+}
+
+.dice {
+  border: none;
+  background-color: rgb(122, 108, 136);
+  border-radius: 20px;
+  margin-top: 15px;
+  height: 40px;
+  width: 100px;
+}
+.spechail{
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(240, 31, 31);
+  margin-top: 15px;
+  height: 40px;
+  width: 100px;
+
+}
+.Players {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  height: 300px;
+
+}
+
+.p1 {
+  
+  background-color: rgb(201, 90, 201);
+  padding: 50px;
+    border-radius: 20px;
+  font-size: 25px;
+  
+}
+
+.p2 {
+  /* background-color: rgb(201, 90, 201); */
+  background-color:  rgb(110, 110, 231);
+  border-radius: 20px;  
+  font-size: 25px;
+  padding: 50px;
+  margin-left: 10px;
+
+  
+}
+
+.rool {
+  margin-top: 70px;
+  font-size: 20px;
+  text-align: center;
+  
+
+
+}
